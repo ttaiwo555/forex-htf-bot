@@ -1,0 +1,9 @@
+2026-10-09 22:29:55,171 [INFO] [ETM_Levels] Loaded levels for 1 symbols from C:\Users\DELL\New folder (3)\data\levels.json
+2026-10-09 22:29:56,864 [INFO] [matplotlib.font_manager] generated new fontManager
+2026-10-09 22:29:57,769 [INFO] [ETM_ChartGen] Generated chart snapshot: C:\Users\DELL\New folder (3)\charts\EURUSD_Daily_20261009_212957.png
+2026-10-09 22:30:38,173 [INFO] [ETM_Levels] Loaded levels for 1 symbols from C:\Users\DELL\New folder (3)\data\levels.json
+2026-10-09 22:30:39,385 [INFO] [ETM_ChartGen] Generated chart snapshot: C:\Users\DELL\New folder (3)\charts\EURUSD_Daily_20261009_213039.png
+2026-10-09 22:32:39,353 [INFO] [ETM_Levels] Loaded levels for 1 symbols from C:\Users\DELL\New folder (3)\data\levels.json
+2026-10-09 22:32:41,554 [INFO] [ETM_ChartGen] Generated chart snapshot: C:\Users\DELL\New folder (3)\charts\EURUSD_Daily_20261009_213240.png
+2026-10-09 22:57:54,252 [INFO] [ETM_Levels] Loaded levels for 1 symbols from C:\Users\DELL\New folder (3)\data\levels.json
+2026-10-09 22:57:54,253 [INFO] [ETM_MatrixBot] ETM Matrix Bias Bot scheduler started. Listening for schedule triggers...
